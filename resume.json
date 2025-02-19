@@ -1,0 +1,256 @@
+{
+  "basics": {
+    "name": "Clinz Stephen",
+    "label": "IT Project Manager and Engineering Lead",
+    "image": "",
+    "email": "clinzstephen@gmail.com",
+    "phone": "+971 555 645 077",
+    "url": "",
+    "summary": "Experienced IT Project Manager and Engineering Lead with a proven ability to lead, guide, and develop high-performing engineering teams. Focused on enhancing team efficiency, optimizing project delivery, and shaping system architecture to meet business needs. Skilled in mentoring engineers and driving team growth, with a strong background in technologies such as MERN stack, Android, Flutter, Java, Kotlin, C/C++, AWS, and Cloudflare DNS. Passionate about fostering innovation, optimizing workflows, and leading teams to achieve both immediate project success and long-term technical development.",
+    "location": {
+      "address": "Muhisina 4",
+      "postalCode": "",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "clinzstephen",
+        "url": "https://linkedin.com/in/clinzstephen"
+      },
+      {
+        "network": "GitHub",
+        "username": "clinzstephen",
+        "url": "https://github.com/clinzstephen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Onstara",
+      "position": "Project Tech Head",
+      "location": "Cochin",
+      "url": "",
+      "startDate": "2023-01-16",
+      "endDate": "2024-05-31",
+      "summary": "",
+      "highlights": [
+        "Led MERN stack development and architecture decisions",
+        "Implemented Agile workflows in JIRA",
+        "Architected AWS infrastructure with nginx and MongoDB Atlas",
+        "Developed React/Express frontend applications",
+        "Designed RESTful APIs with Node.js/MongoDB"
+      ]
+    },
+    {
+      "name": "Metric Tree Labs",
+      "position": "Full Stack Developer",
+      "location": "",
+      "url": "",
+      "startDate": "2020-03-20",
+      "endDate": "2020-05-31",
+      "summary": "",
+      "highlights": [
+        "Developed full-stack MERN applications for US clients",
+        "Built responsive React/Express web interfaces",
+        "Engineered Node.js/PostgreSQL backend services",
+        "Created cross-platform mobile apps with React Native"
+      ]
+    },
+    {
+      "name": "Kitebe Private Limited",
+      "position": "CTO",
+      "location": "Cochin",
+      "url": "",
+      "startDate": "2019-09-25",
+      "endDate": "present",
+      "summary": "",
+      "highlights": [
+        "Architected MERN stack solutions as Technical Lead",
+        "Managed multi-tenant WordPress hosting infrastructure",
+        "Implemented Firebase Auth, Cloud Functions, and Realtime Database",
+        "Orchestrated DNS and CDN via Cloudflare for multiple domains",
+        "Led Agile development across multiple client projects",
+        "Developed scalable React/Express frontends",
+        "Designed microservices architecture with Node.js/MongoDB"
+      ]
+    },
+    {
+      "name": "Inspiroes",
+      "position": "Technical Lead",
+      "location": "Cochin",
+      "url": "",
+      "startDate": "2018-06-23",
+      "endDate": "2019-09-25",
+      "summary": "",
+      "highlights": [
+        "Architected multi-tenant WordPress hosting platform",
+        "Deployed DigitalOcean infrastructure with nginx/MongoDB",
+        "Implemented serverless architecture with Firebase",
+        "Managed multi-domain DNS/CDN infrastructure",
+        "Built scalable React/Express applications",
+        "Designed RESTful APIs with Node.js/MongoDB"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Saintgits College of Engineering, Kottayam, Kerala",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2014",
+      "endDate": "2018",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Mayanad Higher Secondary School, Kollam",
+      "area": "Higher Secondary Education",
+      "studyType": "",
+      "startDate": "2012",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Seventh Day Adventist High School, Kottayam",
+      "area": "Secondary Education",
+      "studyType": "",
+      "startDate": "2012",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": [
+        "JIRA",
+        "Agile/Scrum Methodologies",
+        "Cross-functional team support"
+      ]
+    },
+    {
+      "name": "Server Management",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "Nginx",
+        "MongoDB Atlas",
+        "Firebase",
+        "Cloud Databases",
+        "Shared Hosting",
+        "Azure",
+        "DigitalOcean",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "",
+      "keywords": [
+        "ReactJS",
+        "Express",
+        "VueJS",
+        "HTML",
+        "CSS",
+        "PHP",
+        "JavaScript",
+        "Firebase Auth"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "",
+      "keywords": [
+        "nodeJS",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "PHP",
+        "JavaScript",
+        "Postman",
+        "Firebase"
+      ]
+    },
+    {
+      "name": "Mobile App Development",
+      "level": "",
+      "keywords": [
+        "Android Studio",
+        "Java",
+        "Kotlin",
+        "React Native"
+      ]
+    },
+    {
+      "name": "UI/UX Design Tools",
+      "level": "",
+      "keywords": [
+        "Figma",
+        "Adobe XD",
+        "Photoshop",
+        "Illustrator"
+      ]
+    },
+    {
+      "name": "CMS Platforms",
+      "level": "",
+      "keywords": [
+        "WordPress",
+        "Joomla",
+        "Shopify"
+      ]
+    },
+    {
+      "name": "Additional Expertise",
+      "level": "",
+      "keywords": [
+        "Arduino",
+        "Raspberry Pi",
+        "C",
+        "C++",
+        "Python",
+        "Flutter"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Malayalam",
+      "fluency": "Native"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Govindan Vasudevan - Director, Kitebe",
+      "phone": "+91 94964-61565",
+      "email": "govindan.vasudev@gmail.com"
+    },
+    {
+      "name": "Abdul Rasheed P U - MD, Inspiroes",
+      "phone": "+91 95267434658",
+      "email": "abdulraheedmukkali@gmail.com"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}
