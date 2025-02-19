@@ -160,6 +160,7 @@
         "CSS",
         "PHP",
         "JavaScript",
+        "TypeScript",
         "Firebase Auth"
       ]
     },
@@ -174,6 +175,7 @@
         "PHP",
         "JavaScript",
         "Postman",
+        "TypeScript",
         "Firebase"
       ]
     },
@@ -215,7 +217,9 @@
         "C",
         "C++",
         "Python",
-        "Flutter"
+        "Docker",
+        "Flutter",
+        "Kubernetes"
       ]
     }
   ],
@@ -230,26 +234,15 @@
     },
     {
       "language": "Tamil",
-      "fluency": "Fluent"
+      "fluency": "Conversational"
     },
     {
       "language": "Hindi",
-      "fluency": "Fluent"
+      "fluency": "Conversational"
     }
   ],
   "interests": [],
-  "references": [
-    {
-      "name": "Govindan Vasudevan - Director, Kitebe",
-      "phone": "+91 94964-61565",
-      "email": "govindan.vasudev@gmail.com"
-    },
-    {
-      "name": "Abdul Rasheed P U - MD, Inspiroes",
-      "phone": "+91 95267434658",
-      "email": "abdulraheedmukkali@gmail.com"
-    }
-  ],
+  "references": [],
   "projects": [],
   "volunteer": [],
   "awards": []
