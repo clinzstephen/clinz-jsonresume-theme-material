@@ -1,0 +1,171 @@
+{
+  "basics": {
+    "name": "Clinz Stephen",
+    "label": "Software Engineer | WordPress Expert",
+    "image": "",
+    "email": "clinzstephen@gmail.com",
+    "phone": "+971 555 645 077",
+    "url": "",
+    "summary": "Creative and detail-oriented Web Developer with over 5 years of experience specializing in WordPress development, UI/UX customization, and responsive design. Proven ability to build engaging, SEO-optimized, and secure websites aligned with brand identity. Skilled in HTML, CSS, JavaScript, PHP, and theme/plugin customization. Strong background in collaborating with marketing teams, managing multi-tenant WordPress hosting, and delivering visually impactful digital experiences under tight deadlines. Experienced in hosting and configuring websites on AWS, shared hosting environments, and connecting domains using Cloudflare DNS for optimized performance and security.",
+    "location": {
+      "address": "Muhisina 4",
+      "postalCode": "",
+      "city": "Dubai",
+      "countryCode": "UAE",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "clinzstephen",
+        "url": "https://linkedin.com/in/clinzstephen"
+      },
+      {
+        "network": "GitHub",
+        "username": "clinzstephen",
+        "url": "https://github.com/clinzstephen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Kitebe Private Limited",
+      "position": "CTO",
+      "location": "Cochin",
+      "url": "",
+      "startDate": "2019-09-25",
+      "endDate": "present",
+      "summary": "",
+      "highlights": [
+        "Managed multi-tenant WordPress hosting infrastructure for clients across sector",
+        "Customized WordPress themes, menus, widgets, and plugins for client branding and marketing goals.",
+        "Integrated interactive UI/UX features including dynamic forms, floating tiles, and tabbed interfaces.",
+        "Maintained secure and up-to-date websites, applying regular patches and performance enhancements.",
+        "Oversaw UI alignment across digital assets using Adobe tools (Photoshop, Illustrator) and Figma.",
+        "Managed multi-domain DNS/CDN infrastructure"
+      ]
+    },
+    {
+      "name": "Inspiroes",
+      "position": "Technical Lead",
+      "location": "Cochin",
+      "url": "",
+      "startDate": "2018-06-23",
+      "endDate": "2019-09-25",
+      "summary": "",
+      "highlights": [
+        "Developed scalable, responsive websites using WordPress and custom PHP.",
+        "Architected WordPress platforms with enhanced SEO, user engagement elements, and custom content blocks.",
+        "Deployed web infrastructure on DigitalOcean with optimized caching and security protocols.",
+        "Managed multi-domain DNS/CDN infrastructure",
+        "Ensured mobile optimization and cross-browser compatibility for all pages"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Saintgits College of Engineering, Kottayam, Kerala",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2014",
+      "endDate": "2018",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Mayanad Higher Secondary School, Kollam",
+      "area": "Higher Secondary Education",
+      "studyType": "",
+      "startDate": "2012",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Seventh Day Adventist High School, Kottayam",
+      "area": "Secondary Education",
+      "studyType": "",
+      "startDate": "2012",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development & CMS",
+      "level": "",
+      "keywords": [
+        "WordPress (custom themes/plugins, forms, widgets)",
+        "HTML5", "CSS3", "JavaScript", "PHP",
+        "Elementor", "WPBakery", 
+        "Shopify", "Joomla"
+      ]
+    },
+    {
+      "name": "UI/UX Design Tools",
+      "level": "",
+      "keywords": [
+        "Figma",
+        "Adobe XD",
+        "Photoshop",
+        "Illustrator"
+      ]
+    },
+    {
+      "name": "Maintenance & Deployment",
+      "level": "",
+      "keywords": [
+        "Shared Hosting",
+        "AWS",
+        "Cloudflare DNS",
+        "Git",
+        "cPanel",
+        "Cloud Databases",
+        "NGINX",
+        "DigitalOcean",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Additional Expertise",
+      "level": "",
+      "keywords": [
+        "Arduino",
+        "Raspberry Pi",
+        "C",
+        "C++",
+        "Python",
+        "Docker",
+        "Flutter",
+        "Kubernetes",
+        "JIRA",
+        "Agile/Scrum Methodologies",
+        "Cross-functional team support"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Malayalam",
+      "fluency": "Native"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}
